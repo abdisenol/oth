@@ -1,0 +1,20 @@
+1512
+0xabc70c20
+
+; NetSupport License File.
+; Generated on 10:10 - 02/04/2019
+
+[[Enforce]]
+
+[_License]
+control_only=0
+expiry=30/09/2050
+inactive=0
+licensee=EVAL
+maxslaves=999
+os2=1
+product=20
+serial_no=EVL1000
+shrink_wrap=0
+start=30/08/2025
+transport=0
